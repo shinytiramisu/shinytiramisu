@@ -13,4 +13,4 @@ I actively maintain packages and contribute bug fixes and documentation across t
 
 ---
 
-[GitHub](https://github.com/shinytiramisu/) · [Email](anck.sunamun008@gmail.com) · 
+[GitHub](https://github.com/shinytiramisu/) · [Email](mailto:anck.sunamun008@gmail.com)
