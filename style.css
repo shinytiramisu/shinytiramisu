@@ -104,3 +104,20 @@ footer {
   gap: 0.75rem;
   color: var(--muted);
 }
+
+.avatar {
+  display: block;
+  width: 96px;
+  height: 96px;
+  border-radius: 50%;
+  object-fit: cover;
+  image-rendering: pixelated;
+  border: 1px solid var(--rule);
+  margin-bottom: 1.25rem;
+}
+
+.tagline {
+  margin-top: 3rem;
+  text-align: center;
+  color: var(--muted);
+}
